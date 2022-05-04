@@ -1,5 +1,5 @@
 # WestBathLandUse
-Exploring land use codes in West Bath Maine
+Exploring land use codes in West Bath Maine found at: https://www.westbath.org/vertical/sites/%7B8D54E1CA-5A26-4740-9A42-C675DDB0D420%7D/uploads/Land_Use_Ordinance_amended_3.03.2022.pdf
 
 $10.00
 Ordinances
